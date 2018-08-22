@@ -1,0 +1,16 @@
+gcc
+gcc-6.4.0
+gcc-7.3.0
+gcc-ar
+gcc-config
+gcc-nm
+gcc-ranlib
+winegcc
+winegcc-vanilla
+winegcc-vanilla-2.0.3
+x86_64-pc-linux-gnu-gcc
+x86_64-pc-linux-gnu-gcc-6.4.0
+x86_64-pc-linux-gnu-gcc-7.3.0
+x86_64-pc-linux-gnu-gcc-ar
+x86_64-pc-linux-gnu-gcc-nm
+x86_64-pc-linux-gnu-gcc-ranlib

@@ -1,0 +1,6 @@
+   10  gcc gcc gcc
+   11  ccg ccg ccg
+   12  mkdir ~/week1
+   13  cd ~/week1
+   14  cd -
+   15  history > ex2.txt
