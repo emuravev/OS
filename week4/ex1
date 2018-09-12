@@ -1,0 +1,10 @@
+#!/bin/bash
+
+gcc -o pgm1 pgm1.c
+
+for i in 1 2 3 4 5 6 7 8 9 10
+do 
+  ./pgm1
+done
+
+rm pgm1
