@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   1746	    608	      8	   2362	    93a	program.exe
