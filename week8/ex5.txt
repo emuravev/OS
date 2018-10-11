@@ -1,0 +1,2 @@
+Physical adress is real adress in hardware.
+Virtual adress is adress in operating system, and it can be larger then physical adress space.
