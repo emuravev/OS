@@ -1,0 +1,15 @@
+660:
+  * for owner read and write
+  * for group read and write
+  * for other users no permissions
+
+775:
+  * for owner read, write and executable
+  * for group read, write and executable
+  * for other users read and executeble
+
+777:
+  * for owner read, write and executable
+  * for group read, write and executable
+  * for other users read, write and executable
+
