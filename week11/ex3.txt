@@ -1,0 +1,7 @@
+First program print "Hello" then fork itself and print "\n" two times.
+First time from main program. Second from his child.
+Output of the first program will be like this "Hello\n\n".
+
+Second program print "Hello\n" then fork itself and print "\n" two times.
+First time from main program. Second from his child.
+Output of the first program will be like this "Hello\n\n\n".
